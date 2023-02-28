@@ -1,7 +1,7 @@
 # VBA-Excel-projects
 ## NHIS claims Management System (Using Native Excel SpreadSheets to Save and report data (as backend database)) 
 
- 1. A multi-user program that allow insurance bills easily & accurately processed and stored into Access database
+ 1. A program that allow insurance bills easily & accurately processed and stored
  > 
  2. Client required custom Health Maintenance Organisation form embedded to the program, ensuring all claiming processes are captured
  > 
